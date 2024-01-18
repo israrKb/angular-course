@@ -14,6 +14,19 @@
     margin: 50px auto;
 }
 
-
+course-card.first {
+  border-top: 2px solid grey;
+  padding-top: 20px;
+}
+course-card.last {
+  border-bottom: 2px solid grey;
+  padding-top: 20px;
+}
+course-card.even {
+  background : lightgray;
+}
+course-card.odd {
+  background: lightcyan;
+}
 
 
